@@ -18,14 +18,14 @@ The following repository allows any github repository to be used as a dependency
 ```
 <repository>
   <id>jitpack.io</id>
-		<url>https://jitpack.io</url>
+  <url>https://jitpack.io</url>
 </repository>
   ```
   And then the following dependency:
   ```
 <dependency>
   <groupId>com.github.dec4234</groupId>
-	 <artifactId>DecsNPCs</artifactId>
-	 <version>master</version>
+  <artifactId>DecsNPCs</artifactId>
+  <version>master</version>
 </dependency>
  ```
