@@ -14,5 +14,18 @@ Thanks in advance for considering to use this. This is the first project I think
 * Enable or disable NPCs looking at players within 5 blocks of them
 
 # Getting started
-Currently this API is only available as a default Java Build Path import.
-TO-DO: Make Maven dependency
+The following repository allows any github repository to be used as a dependency in a maven project:
+```
+<repository>
+  <id>jitpack.io</id>
+		<url>https://jitpack.io</url>
+</repository>
+  ```
+  And then the following dependency:
+  ```
+<dependency>
+  <groupId>com.github.dec4234</groupId>
+	 <artifactId>DecsNPCs</artifactId>
+	 <version>master</version>
+</dependency>
+ ```
