@@ -24,8 +24,8 @@ The following repository allows any github repository to be used as a dependency
   And then the following dependency:
   ```
 <dependency>
-  <groupId>com.github.dec4234</groupId>
-  <artifactId>DecsNPCs</artifactId>
-  <version>master</version>
+    <groupId>com.github.dec4234</groupId>
+    <artifactId>DecsNPCs</artifactId>
+    <version>master</version>
 </dependency>
  ```
