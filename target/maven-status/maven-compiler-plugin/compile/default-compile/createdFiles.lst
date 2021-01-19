@@ -1,0 +1,11 @@
+org\dec4234\decsnpcapi\npcEvents\PlayerWorldListener.class
+org\dec4234\decsnpcapi\decsNpcsCustomEvents\PacketReader$1.class
+org\dec4234\decsnpcapi\decsNpcsCustomEvents\NPCInteractType.class
+org\dec4234\decsnpcapi\npcHandlers\NPC.class
+org\dec4234\decsnpcapi\npcHandlers\LookAtPlayers.class
+org\dec4234\decsnpcapi\decsNpcsCustomEvents\RightClickNPCEvent.class
+org\dec4234\decsnpcapi\decsNpcsCustomEvents\PacketReader.class
+org\dec4234\decsnpcapi\npcHandlers\NPCManager.class
+org\dec4234\decsnpcapi\decsNpcsSrc\DecsNpcsMain.class
+org\dec4234\decsnpcapi\npcEvents\JoinEvents.class
+org\dec4234\decsnpcapi\decsNpcsCustomEvents\PacketReader$2.class

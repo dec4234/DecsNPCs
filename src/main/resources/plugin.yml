@@ -1,0 +1,4 @@
+name: DecsNPCs
+version: ${project.version}
+main: org.dec4234.decsnpcapi.decsNpcsSrc.DecsNpcsMain
+api-version: 1.15
